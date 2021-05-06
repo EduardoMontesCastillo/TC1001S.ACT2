@@ -1,0 +1,23 @@
+t 06f4030126b5931c7bc478f8749c765fe15fd808 (HEAD -> master)
+Author: Eduardo Montes <eduardoandremontes@gmail.com>
+Date:   Thu May 6 11:46:24 2021 -0600
+
+    CommitEduardo.txt
+
+commit c65c9cf8c5527d930538a1a61a6a1b4b684f0539 (origin/master, origin/HEAD)
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 12:30:35 2021 -0500
+
+    Registro de commits
+
+commit 21bfe836160675d10fa33046bd9aabfad2269bb2
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 12:29:41 2021 -0500
+
+    Se añade archivo original snake
+
+commit 67e742efe07e74238c9772a626a80ee00de85979
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 12:27:13 2021 -0500
+
+    Inicio de nueva actividad
