@@ -54,7 +54,7 @@ def move():
     update()
     ontimer(move, 100)
 
-Colorarray = ['blue','green','yellow','orange','black']
+Colorarray = ['blue','green','yellow','brown','black']
 setup(420, 420, 370, 0)
 ColorSnake = Colorarray[randrange(0,4)]
 ColorFood = Colorarray[randrange(0,4)]
