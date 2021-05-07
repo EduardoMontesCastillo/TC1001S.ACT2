@@ -1,10 +1,47 @@
-commit 21bfe836160675d10fa33046bd9aabfad2269bb2 (HEAD -> master)
+commit 488689ff9a148398acecaac12ef87e79b5b3abde (HEAD -> master)
+Merge: 88cff27 b3bd1a8
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 17:49:44 2021 -0500
+
+    Merge final
+
+commit 88cff279d1f9e19f423e4e0bc374e2dd2c349a83
+Author: EduardoMontesCastillo <83718988+EduardoMontesCastillo@users.noreply.github.com>
+Date:   Thu May 6 15:48:21 2021 -0600
+
+    Create README.md
+
+commit 5f73af8503c5a627d0f6b466b2e9b922c80f8f44
+Author: Eduardo Montes <eduardoandremontes@gmail.com>
+Date:   Thu May 6 15:34:39 2021 -0600
+
+    CambioComida
+
+commit b3bd1a888ff9b76118d93337ae351ae03f706f30 (origin/ModRam, ModRam)
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 12:52:59 2021 -0500
+
+    Cambio de color comida serpiente
+
+commit 06f4030126b5931c7bc478f8749c765fe15fd808
+Author: Eduardo Montes <eduardoandremontes@gmail.com>
+Date:   Thu May 6 11:46:24 2021 -0600
+
+    CommitEduardo.txt
+
+commit c65c9cf8c5527d930538a1a61a6a1b4b684f0539
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 12:30:35 2021 -0500
+
+    Registro de commits
+
+commit 21bfe836160675d10fa33046bd9aabfad2269bb2
 Author: ToroLoco83 <ram_yosh222_@hotmail.com>
 Date:   Thu May 6 12:29:41 2021 -0500
 
     Se añade archivo original snake
 
-commit 67e742efe07e74238c9772a626a80ee00de85979 (origin/master)
+commit 67e742efe07e74238c9772a626a80ee00de85979
 Author: ToroLoco83 <ram_yosh222_@hotmail.com>
 Date:   Thu May 6 12:27:13 2021 -0500
 
